@@ -1,0 +1,6 @@
+{
+  "name": "LaborLaw AI Scenario - กฎหมายแรงงาน ปวช.1",
+  "description": "ระบบสร้างสถานการณ์จำลองข้อพิพาทและจัดการแผนการสอนกฎหมายแรงงานสำหรับ ปวช.1 เชื่อมต่อ Google Sheets และขับเคลื่อนด้วย AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
